@@ -6,11 +6,11 @@
 Clone git repository (or download as .zip on PC)
 
  To run the application on windows:
- - Open My-Project/WindowsBuild/My\ Project.exe
+ - Open .../WindowsBuild/My\ Project.exe
  
  Warning: MacOS version only works if you clone the repository, downloading the repo as a zip file corrupts the executable.
  To run on MacOS:
- - Open MacBuild/MacBuild.app/Contents/MacOS/My\ Project
+ - Open .../MacBuild/MacBuild.app/Contents/MacOS/My\ Project
 
 Application logic:
 
