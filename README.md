@@ -5,9 +5,11 @@
 
  To run the application on windows:
  - Open My-Project/WindowsBuild/My\ Project.exe
- 
  To run on MacOS:
- - Open MacBuild/MacBuild.app/Contents/MacOS/My\ Project
+ - Navigate to MacBuild/MacBuild.app/Contents/MacOS in terminal
+ - Run the following command: chmod -R 777 My\ Project
+ - The above is required because the file is not executable by default.
+ - Open My\ Project
 
 Application logic:
 
